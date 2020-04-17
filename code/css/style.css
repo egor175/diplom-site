@@ -1,0 +1,17 @@
+@import url("../fonts/fonts.css");
+
+#start {
+  height: 1249px;
+  background-image: url(../image/bg.ipg/Photo.png);
+  background-size: cover;
+  background-position: center;
+}
+
+nav{
+  height: 88px;
+  padding: 0px 0px;
+}
+.btn btn-danger {
+  height: 88px;
+  width: 166px;
+}
